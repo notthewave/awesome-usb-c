@@ -1,4 +1,9 @@
 # Awesome USB-C
-A collection of links to Adapters, Cables, Conversion Kits. USC-C is confusing. This project aims to make it simpler to find the right Hardware. PR's welcome.
+
+This repo aims to be similar to:
+https://github.com/geerlingguy/mini-rack
+https://github.com/geerlingguy/raspberry-pi-pcie-devices
+
+For now it will just be a Markdown file.
 
 Datastucture for this repo still needs to be discussed.
