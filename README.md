@@ -15,5 +15,9 @@ Why is this project called `awesome-usb-c` and not awesome usb-4 or thunderbolt 
 
 Thunderbolt 5 is an implementation of USB4 "80 Gbps". It mandates even higher minimum PCIe ("64 Gbps") and DP capabilities (2 DP tunnels, "6K60 each", unclear min. DP speed). It also mandates support for asymmetric 120/40 Gbit/s connections from hosts to docks, but does not mention the reverse. https://www.thunderbolttechnology.net/sites/default/files/TBT5%20Press%20Deck%20v3%20Final.pdf
 
+### Backwards compatibility 
+
+### How do I know that a cable is Thunderbolt 5 compatible?
+
 | Brand | Type | Length | Link | Notes | Cons |
 |-|-|-|-|-|-|
